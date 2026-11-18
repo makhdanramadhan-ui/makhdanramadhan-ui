@@ -17,6 +17,6 @@ I’m a Computer Engineering Technology student at IPB University. My interests 
 - **Embedded and IoT:** ESP32, Arduino, ESP-NOW, MQTT, Firebase Realtime Database, ThingsBoard, AWS EC2
 - **Networking and PLC coursework:** MikroTik RouterOS, Cisco Packet Tracer, CX-Programmer, Factory I/O
 
-I’m open to internships and junior roles in software, applied AI, or IoT.
+I’m open to job opportunities in software, applied AI, and IoT.
 
 [Portfolio](https://makhdanramadhan-ui.github.io/) · [CV](https://makhdanramadhan-ui.github.io/M-Akhdan-Ramadhan-CV.pdf)
