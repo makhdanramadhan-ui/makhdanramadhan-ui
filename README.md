@@ -1,8 +1,6 @@
 # Hi, I’m Muhamad Akhdan Ramadhan
 
-I’m a Computer Engineering Technology student at IPB University, Indonesia. I like working on projects that cross between hardware and software. With VitaLoop, I assembled a sensor wristband, connected it to ThingsBoard on an Ubuntu server in AWS, and used RStudio to work through the readings.
-
-I also run a small multi-agent system on a Linux VPS. I’m interested in the parts that keep it manageable: how jobs are queued, how model requests are routed, and what gets checked before a change goes live.
+I’m a Computer Engineering Technology student at IPB University. My interests are web development, applied AI, and IoT. I enjoy learning how software and hardware work together.
 
 ## Selected projects
 
