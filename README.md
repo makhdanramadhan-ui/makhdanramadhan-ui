@@ -1,0 +1,16 @@
+# Hi, I’m Muhamad Akhdan Ramadhan
+
+I’m a Computer Engineering Technology student at IPB University, Indonesia. I like working on projects that cross between hardware and software. With VitaLoop, I assembled a sensor wristband, connected it to ThingsBoard on an Ubuntu server in AWS, and used RStudio to work through the readings.
+
+I also run a small multi-agent system on a Linux VPS. I’m interested in the parts that keep it manageable: how jobs are queued, how model requests are routed, and what gets checked before a change goes live.
+
+## Selected projects
+
+- **[COSTMOSYS](https://github.com/makhdanramadhan-ui/COSTMOSYS):** A barn monitoring pilot. I worked on the ESP32 sensor and sprinkler system and trained a separate YOLO model for CCTV footage.
+- **[LyNx Agent Control](https://github.com/makhdanramadhan-ui/lynx-agent-control-demo):** A dashboard for checking services and reviewing logs from my automation platform. The public demo uses sample data.
+- **[WishNotes](https://github.com/makhdanramadhan-ui/WishNotes):** A group web project where people leave messages on a Christmas tree, a bulletin board, or a mailbox. I worked on the PHP/Laravel backend and the Blade frontend.
+- **[Customer churn prediction](https://github.com/makhdanramadhan-ui/Machine-Learning-Project):** A group ML project. I selected and trained the model, then built and deployed a Streamlit app to try it on individual customers or a CSV.
+
+I’m open to internships and junior roles in software, applied AI, or IoT.
+
+[Portfolio](https://makhdanramadhan-ui.github.io/) · [CV](https://makhdanramadhan-ui.github.io/M-Akhdan-Ramadhan-CV.pdf)
