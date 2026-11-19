@@ -16,4 +16,4 @@ Computer Engineering Technology student at IPB University building projects in s
 - **Embedded & IoT:** ESP32, ESP-NOW, Arduino, sensors, Firebase Realtime Database, MQTT, ThingsBoard
 - **Networks & industrial:** Cisco networking, MikroTik, PLC (CX-Programmer, Factory I/O), RStudio, MATLAB
 
-[Portfolio](https://makhdanramadhan-ui.github.io/) · [CV](https://makhdanramadhan-ui.github.io/M-Akhdan-Ramadhan-CV.pdf) · [GitHub](https://github.com/makhdanramadhan-ui)
+[Portfolio](https://makhdanramadhan-ui.github.io/) · [CV](https://makhdanramadhan-ui.github.io/M-Akhdan-Ramadhan-CV.pdf) · [GitHub](https://github.com/makhdanramadhan-ui) · [LinkedIn](https://www.linkedin.com/in/muhamad-akhdan-ramadhan-4517bb314/)
