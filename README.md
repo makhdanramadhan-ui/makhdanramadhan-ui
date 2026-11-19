@@ -1,22 +1,19 @@
-# Hi, I’m Muhamad Akhdan Ramadhan
+# Muhamad Akhdan Ramadhan
 
-I’m a Computer Engineering Technology student at IPB University. My interests are web development, applied AI, and IoT. I enjoy learning how software and hardware work together.
+Computer Engineering Technology student at IPB University building projects in software, applied AI, and IoT. I work with agentic, multi-agent workflows to plan, build, and review work. I am open to job opportunities and collaborations.
 
 ## Selected projects
 
-- **[COSTMOSYS](https://github.com/makhdanramadhan-ui/COSTMOSYS):** A barn monitoring pilot. I worked on the ESP32 sensor and sprinkler system and trained a separate YOLO model for CCTV footage.
-- **[LyNx Agent Control](https://github.com/makhdanramadhan-ui/lynx-agent-control-demo):** A dashboard for checking services and reviewing logs from my automation platform. The public demo uses sample data.
-- **[WishNotes](https://github.com/makhdanramadhan-ui/WishNotes):** A group web project where people leave messages on a Christmas tree, a bulletin board, or a mailbox. I worked on the PHP/Laravel backend and the Blade frontend.
-- **[Customer churn prediction](https://github.com/makhdanramadhan-ui/Machine-Learning-Project):** A group ML project. I selected and trained the model, then built and deployed a Streamlit app to try it on individual customers or a CSV.
+- **[COSTMOSYS](https://github.com/makhdanramadhan-ui/COSTMOSYS)** (coursework, group): two-node cow-barn monitoring pilot with ESP32 sensors, ESP-NOW, Firebase telemetry, sprinkler control, and a separate [YOLO26n CCTV detection model](https://github.com/makhdanramadhan-ui/Machine-Learning-COSTMOSYS-YOLO26n).
+- **[LyNx Agent Control demo](https://makhdanramadhan-ui.github.io/lynx-agent-control-demo/)** (solo personal project): public demo of a control dashboard for a multi-agent automation platform running on a VPS. I designed the system, set up the VPS, and built the dashboard. I use AI coding agents for parts of the implementation and review every change before deployment.
+- **[Customer churn prediction](https://github.com/makhdanramadhan-ui/Machine-Learning-Project)** (coursework, group): calibrated logistic regression on the IBM Telco dataset served in a Streamlit app for single and batch predictions.
+- **[WishNotes](https://github.com/makhdanramadhan-ui/WishNotes)** (coursework, group): Laravel app for themed message boards. I worked on the PHP/Laravel backend and Blade frontend.
 
-## Tech stack
+## Skills
 
-- **Web:** JavaScript, TypeScript, React, Node.js, Express, PHP, Laravel, Blade, SQLite
-- **Applied ML and data:** Python, PyTorch, YOLO, scikit-learn, Streamlit, RStudio
-- **Linux and automation:** Ubuntu, systemd, Docker Compose, 9Router
-- **Embedded and IoT:** ESP32, Arduino, ESP-NOW, MQTT, Firebase Realtime Database, ThingsBoard, AWS EC2
-- **Networking and PLC coursework:** MikroTik RouterOS, Cisco Packet Tracer, CX-Programmer, Factory I/O
+- **Software & web:** JavaScript, TypeScript, Node.js, React, Express, Python, PHP, Laravel, HTML, CSS, SQL, SQLite, REST APIs, Git
+- **AI & automation:** agentic/multi-agent workflows, LLM APIs, 9Router, Linux, systemd, Docker Compose, n8n, scikit-learn, YOLO26n, PyTorch, Streamlit
+- **Embedded & IoT:** ESP32, ESP-NOW, Arduino, sensors, Firebase Realtime Database, MQTT, ThingsBoard
+- **Networks & industrial:** Cisco networking, MikroTik, PLC (CX-Programmer, Factory I/O), RStudio, MATLAB
 
-I’m open to job opportunities in software, applied AI, and IoT.
-
-[Portfolio](https://makhdanramadhan-ui.github.io/) · [CV](https://makhdanramadhan-ui.github.io/M-Akhdan-Ramadhan-CV.pdf)
+[Portfolio](https://makhdanramadhan-ui.github.io/) · [CV](https://makhdanramadhan-ui.github.io/M-Akhdan-Ramadhan-CV.pdf) · [GitHub](https://github.com/makhdanramadhan-ui)
